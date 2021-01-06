@@ -1,1 +1,1 @@
-# js_todo
+Javascriptを使用して、ToDoリストのプログラムを作成してみました。
